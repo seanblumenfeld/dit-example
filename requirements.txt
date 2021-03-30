@@ -1,4 +1,4 @@
-Django==3.0.6
+Django==3.0.12
 django-material==1.6.3
 django-viewflow==1.6.0
 django-formtools==2.2
